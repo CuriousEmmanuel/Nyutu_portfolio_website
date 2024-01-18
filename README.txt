@@ -30,3 +30,4 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b7400a1b-0c58-435f-aaff-6102714f65e2/deploy-status)](https://app.netlify.com/sites/david-nyutu/deploys)
